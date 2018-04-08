@@ -5,7 +5,7 @@ Repository containing a portfolio of some data science projects completed by me 
 ## Data Science projects
 
 In Python:
-1. Web scraping project
+1. Web scraping project: Obtain data from football games from a web site and make simple analysis on that data.
 
 In R:
 
