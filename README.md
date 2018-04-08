@@ -3,3 +3,9 @@ Repository containing a portfolio of some data science projects completed by me 
 
 
 ## Data Science projects
+
+In Python:
+1. Web scraping project
+
+In R:
+
