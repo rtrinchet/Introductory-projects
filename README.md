@@ -4,11 +4,11 @@ Repository containing a portfolio of some data science projects completed by me 
 
 ## Data Science projects
 
-In Python:
-1. Web scraping project: Obtain data from football games from a web site and make simple analysis on that data.
+In **Python**:
+1. *Web scraping project*: Obtain data from football games from a web site and make simple analysis on that data.
 
-2. Basic Data analysis from a dataset with information about the Fifa 17 players.
+2. *Data Cleaning & Exploratory Data Analysis* from a dataset with information about the Fifa 17 players.
 
-In R:
+In **R**:
 1. Analysis and visualization(ggplot) using a database from the package gapminder.
 
