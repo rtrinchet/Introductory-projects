@@ -12,10 +12,10 @@ In **Python**:
 In **R**:
 1. [*Basic Analysis and visualization*](https://github.com/Ricard31/Portfolio/blob/master/Project_Gapminder.R) using a database contained in the package gapminder.
 
-2. Data Mining Project using a customer-transaction database. [In Spanish]
-    2.1 [*Introducción y EDA*](https://github.com/Ricard31/Portfolio/blob/master/Informe_introduccion.html)
-    2.2 [*Reglas de asociación*](https://github.com/Ricard31/Portfolio/blob/master/Informe_reglas_asociacion.html)
-    2.3 [*Algoritmo de agrupamiento*](https://github.com/Ricard31/Portfolio/blob/master/Informe_algoritmo_agrupamiento.html)
-    2.4 [*Clasificación con árboles de decisión*](https://github.com/Ricard31/Portfolio/blob/master/Informe_algoritmo_clasificacion.html)
+2. Data Mining Project using a customer-transaction database. [In Spanish]   
+    2.1 [*Introducción y EDA*](https://github.com/Ricard31/Portfolio/blob/master/Informe_introduccion.html)  
+    2.2 [*Reglas de asociación*](https://github.com/Ricard31/Portfolio/blob/master/Informe_reglas_asociacion.html)  
+    2.3 [*Algoritmo de agrupamiento*](https://github.com/Ricard31/Portfolio/blob/master/Informe_algoritmo_agrupamiento.html)  
+    2.4 [*Clasificación con árboles de decisión*](https://github.com/Ricard31/Portfolio/blob/master/Informe_algoritmo_clasificacion.html)  
     
 
